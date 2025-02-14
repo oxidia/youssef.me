@@ -1,0 +1,54 @@
+h1 {
+  font-family: "Roboto";
+  font-size: 96px;
+}
+
+h2 {
+  font-family: "Roboto";
+  font-size: 60px;
+}
+
+h3 {
+  font-family: "Roboto";
+  font-size: 48px;
+}
+
+h4 {
+  font-family: "Roboto";
+  font-size: 34px;
+}
+
+h5 {
+  font-family: "Roboto";
+  font-size: 24px;
+}
+
+h6 {
+  font-family: "Roboto";
+  font-size: 20;
+}
+
+.text--body1 {
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.text--body2 {
+  font-family: "Roboto";
+  font-size: 14px;
+}
+
+.text--subtitle1 {
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.text--subtitle2 {
+  font-family: "Roboto";
+  font-size: 14px;
+}
+
+.text--button {
+  font-family: "Roboto";
+  font-size: 14px;
+}

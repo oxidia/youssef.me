@@ -1,0 +1,21 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.main--container {
+  padding: 8px;
+}
+
+.section--container {
+  padding: 16px;
+  border-left: 5px solid #123456;
+  margin-bottom: 16px;
+}
+
+.section--title {
+  margin-bottom: 8px;
+}
+
+.section--content {
+  padding-left: 8px;
+}
